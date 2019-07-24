@@ -57,7 +57,7 @@
 		{#if s.image}
 		<img src={s.image} alt={s.title}/>
 		{/if}
-		<a href="{s.href}" class="col s12 m4 offset-m4 btn-large waves-effect waves-light">Go</a>
+		<a href="{s.href}" rel=prefetch class="col s12 m4 offset-m4 btn-large waves-effect waves-light">Go</a>
 	</div>
 	<br>
 	{/each}
