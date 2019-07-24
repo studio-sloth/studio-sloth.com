@@ -1,7 +1,7 @@
 {
   "name": "studio-sloth.com",
   "description": "Studio-Sloth Website",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
